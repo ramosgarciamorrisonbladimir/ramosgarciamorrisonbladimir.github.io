@@ -7,8 +7,6 @@
 \* * * * * * * * * * * * * * * * * * * * */
 @charset "UTF-8";
 body {
-  background: radial-gradient(rgb(97, 93, 93),rgb(190, 225, 233));
-  background-repeat: no-repeat;
   margin: 0;
 }
 
@@ -231,7 +229,6 @@ body {
 }
 
 .rk-footer {
-
   margin-top: 10.5rem;
   margin-bottom: 2rem;
 }
@@ -526,7 +523,6 @@ body {
 .post-img:hover {
   background-color: #000;
   background-blend-mode: luminosity;
-
 }
 .post-img:hover .item-meta {
   opacity: 1;
@@ -1170,7 +1166,7 @@ body {
 }
 
 .item-1 {
-  background-image: url("../img/niñd.jpeg");
+  background-image: url("../img/bloodw.webp");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-1 {
@@ -1179,19 +1175,19 @@ body {
 }
 
 .item-2 {
-  background-image: url("../img/project-2.jpg");
+  background-image: url("../img/azriel.jpeg");
 }
 
 .item-3 {
-  background-image: url("../img/project-3.jpg");
+  background-image: url("../img/hollow.webp");
 }
 
 .item-4 {
-  background-image: url("../img/project-4.jpg");
+  background-image: url("../img/elden.jpeg");
 }
 
 .item-5 {
-  background-image: url("../img/project-5.jpg");
+  background-image: url("../img/sekiro.jpeg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-5 {
@@ -1200,7 +1196,7 @@ body {
 }
 
 .item-6 {
-  background-image: url("../img/project-6.jpg");
+  background-image: url("../img/darksouls.jpeg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-6 {
@@ -1209,31 +1205,30 @@ body {
 }
 
 .item-7 {
-  background-image: url("../img/project-7.jpg");
+  background-image: url("../img/ds.jpeg");
 }
 
 .item-8 {
-  background-image: url("../img/project-8.jpg");
+  background-image: url("../img/cv.jpeg");
 }
 
 .item-9 {
-  background-image: url("../img/project-9.jpg");
+  background-image: url("../img/ghost.jpg")
 }
-
 .item-10 {
-  background-image: url("../img/project-10.jpg");
+  background-image: url("../img/blasphemus1.jpeg");
 }
 
 .item-11 {
-  background-image: url("../img/project-11.jpg");
+  background-image: url("../img/dg.jpeg");
 }
 
 .item-12 {
-  background-image: url("../img/project-12.jpg");
+  background-image: url("../img/ts.jpeg");
 }
 
 .item-13 {
-  background-image: url("../img/project-13.jpg");
+  background-image: url("../img/doom.jpeg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-13 {
@@ -1245,11 +1240,11 @@ body {
 }
 
 .item-14 {
-  background-image: url("../img/project-14.jpg");
+  background-image: url("../img/JS.jpeg");
 }
 
 .item-15 {
-  background-image: url("../img/project-15.jpg");
+  background-image: url("../img/remai.jpeg");
 }
 
 @media (min-width: 40em) {
@@ -1370,7 +1365,7 @@ body {
 }
 
 .post-inside-1 {
-  background-image: url("../img/niñd.jpeg");
+  background-image: url("../img/post-1.jpg");
 }
 
 #layout-grid:checked ~ .rk-portfolio,
@@ -1575,7 +1570,7 @@ body {
 }
 
 .post-1 {
-  background-image: url("../img/niñd.jpeg");
+  background-image: url("../img/post-1.jpg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-blog .post-1 {
@@ -1584,11 +1579,11 @@ body {
 }
 
 .post-2 {
-  background-image: url("../img/niñd.jpeg");
+  background-image: url("../img/post-2.jpg");
 }
 
 .post-3 {
-  background-image: url("../img/dgd.jpeg");
+  background-image: url("../img/post-3.jpg");
   background-size: 160%;
 }
 @media (min-width: 40em) {
@@ -1605,7 +1600,7 @@ body {
 }
 
 .post-5 {
-  background-image: url("../img/niñd.jpeg");
+  background-image: url("../img/post-5.jpg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-blog .post-5 {
@@ -1614,7 +1609,7 @@ body {
 }
 
 .post-6 {
-  background-image: url("../img/dgdc.jpg");
+  background-image: url("../img/post-6.jpg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-blog .post-6 {
@@ -1645,7 +1640,7 @@ body {
 }
 
 .post-1 {
-  background-image: url("../img/cnsc.jpg");
+  background-image: url("../img/post-1.jpg");
 }
 @media (min-width: 40em) {
   .rk-blog--columns .post-1 {
@@ -1654,11 +1649,11 @@ body {
 }
 
 .post-2 {
-  background-image: url("../img/niñd.jpeg");
+  background-image: url("../img/post-2.jpg");
 }
 
 .post-3 {
-  background-image: url("../img/pbm.jpeg");
+  background-image: url("../img/post-3.jpg");
   background-size: 160%;
 }
 @media (min-width: 40em) {
@@ -1675,7 +1670,7 @@ body {
 }
 
 .post-5 {
-  background-image: url("../img/plc.jpg");
+  background-image: url("../img/post-5.jpg");
 }
 @media (min-width: 40em) {
   .rk-blog--columns .post-5 {
@@ -1684,7 +1679,7 @@ body {
 }
 
 .post-6 {
-  background-image: url("../img/dgdc.jpg");
+  background-image: url("../img/post-6.jpg");
 }
 @media (min-width: 40em) {
   .rk-blog--columns .post-6 {
@@ -1700,13 +1695,9 @@ body {
     background-position: center left;
   }
 }
-mark{
-
-  background-image: linear-gradient(0deg,rgb(221, 131, 72),rgba(0, 0, 0, 0.164));
-}
 
 .post-8 {
-  background-image: url("../img/dgd.jpeg");
+  background-image: url("../img/post-8.jpg");
 }
 
 .post-9 {
@@ -2178,3 +2169,5 @@ mark{
 .rk-light-color {
   color: #787878;
 }
+
+
